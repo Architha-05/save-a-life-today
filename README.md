@@ -1,6 +1,6 @@
 # 🩸 Save A Life Today
 
-**Save A Life Today** is a responsive and impactful web project built to raise awareness and support for blood donation. It features a modern design, emotional appeal, and smooth navigation to engage users and inspire action.
+**Save A Life Today** is a modern, responsive website aimed at promoting blood donation awareness and simplifying the donor-recipient connection. Built using HTML, CSS, and JavaScript, the platform provides quick access to donor registration, blood request submissions, and emergency alerts.
 
 > 🌐 **Live Demo**:  
 > [(https://save-a-life-today.vercel.app/)](https://save-a-life-today.vercel.app/)
